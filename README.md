@@ -94,7 +94,13 @@ https://your-username.github.io/rock-paper-scissors/
 - Add "Best of 5" mode
 
 ---
-
 ## 👨‍💻 Author
 
-Created by Your Name
+Israt Jahan Sukonna
+
+
+
+
+
+
+Created by Your Na
