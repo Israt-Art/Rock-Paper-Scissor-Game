@@ -98,9 +98,3 @@ https://your-username.github.io/rock-paper-scissors/
 
 Israt Jahan Sukonna
 
-
-
-
-
-
-Created by Your Na
