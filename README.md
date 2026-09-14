@@ -23,6 +23,7 @@ Play against the computer and test your luck!
 - JavaScript (Vanilla JS)
 
 ---
+````
 
 ## 📂 Project Structure
 
@@ -35,6 +36,7 @@ rock-paper-scissors/
     ├── rock.png
     ├── paper.png
     └── scissors.png
+````
 
 ---
 
