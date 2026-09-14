@@ -50,33 +50,11 @@ rock-paper-scissors/
 
 ---
 
-## ⚠️ IMPORTANT FIX (VERY IMPORTANT FOR GITHUB)
 
-❌ DO NOT use this type of path:
-<img src="e:\Self_Learning\Javascript\35_Rock_Paper_Scissor_Game\rock.png">
-
-✔ Instead use relative paths like:
-<img src="rock.png">
-OR
-<img src="images/rock.png">
-
-👉 GitHub will NOT read your local PC paths.
 
 ---
 
-## 📸 Preview
 
-(Add screenshot here later if you want)
-
----
-
-## 🌐 Live Demo (GitHub Pages)
-
-After deploying, your link will look like:
-
-https://your-username.github.io/rock-paper-scissors/
-
----
 
 ## 📌 What I Learned
 
