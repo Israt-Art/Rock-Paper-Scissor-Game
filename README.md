@@ -29,7 +29,7 @@ Play against the computer and test your luck!
 
 rock-paper-scissors/
 │
-├── index.html
+├── game.html
 ├── game.css
 ├── game.js
 └── images/
